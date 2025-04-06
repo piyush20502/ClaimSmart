@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { motion } from 'react-motion';
 import { Car, Shield, BarChart2, Users, Activity, Bot, Download, ArrowRight, Calendar, X, Clipboard, Check } from 'lucide-react';
 import { Play, Pause, Volume2, VolumeX } from 'lucide-react';
 

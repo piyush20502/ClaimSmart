@@ -930,8 +930,7 @@ import React, { useState, useEffect } from 'react';
 import { LineChart, Line, BarChart, Bar, PieChart, Pie, ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
-import { Activity, AlertTriangle, BarChart2, Car, CheckCircle, TrendingUp, Users, MessageSquare, Bot } from 'lucide-react';
-import { GoogleGenerativeAI } from "@google/generative-ai";
+import { Activity, AlertTriangle, Car, CheckCircle, TrendingUp, Users, MessageSquare, Bot } from 'lucide-react';
 
 // Sample data generation functions (keep existing)
 const generateSampleData = () => {
